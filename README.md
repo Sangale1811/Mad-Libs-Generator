@@ -16,6 +16,10 @@ The Mad Libs Generator is a Python-based console application that allows users t
 - `mad_libs.py`: Python script containing the game logic.
 - `README.md`: This file, providing instructions and information about the game.
 
+## Development
+
+- This game was developed using Python, utilizing dictionaries, random module, and console I/O for user interaction.
+
 ## How to Run
 
 Ensure you have Python installed on your system. You can run the game by executing the `mad_libs.py` script in a Python environment.
@@ -23,6 +27,7 @@ Ensure you have Python installed on your system. You can run the game by executi
 ```bash
 python mad_libs.py
 
-## Technologies Used
 
-- Python
+### Enjoy playing Mad Libs!
+
+
