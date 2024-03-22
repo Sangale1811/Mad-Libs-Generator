@@ -16,13 +16,11 @@ word_types = {
     "place": ["park", "forest", "city", "beach"]
 }
 
-
 def get_word(word_type):
     """
     Get a random word of given type.
     """
     return random.choice(word_types[word_type])
-
 
 def generate_story(story_template):
     """ 
@@ -41,7 +39,6 @@ def generate_story(story_template):
             else:
                 words[word_type] = word
                 valid_input = True
-
 
     # Replace blanks with user input
     for word_type, word in words.items():
@@ -76,7 +73,6 @@ def main():
         if play_again.lower() != 'y':
            print("Thanks for playing Mad Libs! Goodbye!")
            break
-
 
 if __name__ == "__main__":
     main()
