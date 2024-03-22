@@ -4,7 +4,7 @@ The Mad Libs Generator is a Python-based console application that allows users t
 
 ## How to Play
 
-1. **Run the Python script**: Execute the `mad_libs.py` script in a Python environment.
+1. **Run the Python script**: Run the `mad_libs.py` script in a Python environment.
    
 2. **Choose a story template**: Enter the corresponding number for the desired story template.
 
@@ -15,4 +15,19 @@ The Mad Libs Generator is a Python-based console application that allows users t
 5. **Read and enjoy**: Enjoy your unique Mad Libs story.
 
 6. **Optionally, choose to play again or exit the game**: After reading the story, you can choose to play again by entering 'y' or exit the game by entering 'n'.
+
+## File Structure
+
+- `mad_libs.py`: Python script containing the game logic.
+- `README.md`: This file, providing instructions and information about the game.
+
+## How to Run
+
+Ensure you have Python installed on your system. You can run the game by executing the `mad_libs.py` script in a Python environment.
+
+```bash
+python mad_libs.py
+
+## Technologies Used
+- Python
 
