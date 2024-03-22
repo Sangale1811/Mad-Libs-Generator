@@ -28,5 +28,3 @@ Ensure you have Python installed on your system. You can run the game by executi
 python mad_libs.py
 
 
-
-
