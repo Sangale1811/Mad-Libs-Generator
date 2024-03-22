@@ -26,4 +26,3 @@ python mad_libs.py
 ## Technologies Used
 
 - Python
-
